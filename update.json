@@ -1,0 +1,10 @@
+{
+  "version": "v0.1.0",
+  "notes": "Manual release of v0.1.0",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://raw.githubusercontent.com/yotam-aman/EternityAi-Ai-Agent-versions/main/update.zip"
+    }
+  }
+}
