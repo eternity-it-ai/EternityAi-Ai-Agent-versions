@@ -1,9 +1,9 @@
 {
-  "version": "v0.5.1",
-  "notes": "release of v0.5.1 with improved stability and bug fixes.",
+  "version": "v0.5.2",
+  "notes": "release of v0.5.2 with improved stability in ai responses",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMmNWK1cyWU9PNllWT3hiYnNLN1V2TDNEUVFrY2YzNmNNanBJN2h0QzNaMjFkVi82RURvd0QvTHQwdW5qSFpWbWRyOGpnNVp1MWJpRVVCMkQ2N0E1WjRQakY3Z1BqU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDc3MjEzCWZpbGU6dXBkYXRlLmV4ZQpuYkF5citDWmo0YkxUNThlVjc2VlN5ZytZNzRJVlV1d0FIcUpBQkhKd2dCWkpVd09iWTNGam9qMmVQNk90VmJzVW0wQm1DQkZ6Sy9YekU3eWhFeThDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMmNWK1cyWU9PNlpiSFJNQnl6ZXBpL2p3WXF5aUVBUTdsLzEzcitMUno3RDFqbnJ2N3doU01NUEZ2bnlHRWxFQW91QURheHhDYkdSQTBlUUROb3VLenBkSk9JZElONEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzQwMzUyCWZpbGU6dXBkYXRlLmV4ZQpscjEzZDVBd2ZFYVE4OFhoYVh5bjIzWlI2TXM0dkNpcEJFNWpCYVVlVGJyVHlvZ0tSVzcwY3Awc1Y5WjYzVXhjbnZaRHBEb1NNM2lwdkJEMmhucmhCZz09Cg==",
       "url": "https://raw.githubusercontent.com/eternity-it-ai/EternityAi-Ai-Agent-versions/main/update.exe"
     }
   }
